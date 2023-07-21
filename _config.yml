@@ -28,7 +28,7 @@ twitter_username: RusinPaw
 github_username:  pauchan
 
 # Build settings
-remote_theme: LightSpeed
+remote_theme: tajacks/lightspeed
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
