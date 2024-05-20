@@ -30,7 +30,9 @@ pagination:
   sort_reverse: true
 
 # Exclusions
-exclude: [ 'README.md', 'COPYING' ]
+exclude: 
+  - 'README.md'
+  - 'COPYING'
   - vendor
 
 # Plugins
